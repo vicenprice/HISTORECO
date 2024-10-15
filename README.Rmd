@@ -2,7 +2,7 @@
 title: "README"
 author: "Guillermo Rodríguez-López, Ignacio Cazcarro, Ana Serrano, Miguel Martín-Retortillo"
 date: "2024-10-10"
-output: rmarkdown::github_document
+output: html_document
 ---
 
 # HISTORECO: Historical Spanish Transition Database on Climate, Geography, and Economics of the 20th-21st Century
