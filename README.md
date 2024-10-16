@@ -65,7 +65,7 @@ The database is provided in two main formats:
 
 ## Variables
 
-The database contains **40 variables** divided into five thematic
+The database contains **46 variables** divided into five thematic
 groups:
 
 1.  **Climatic Variables** (e.g., total precipitation, mean temperature,
