@@ -15,7 +15,7 @@ Ignacio Cazcarro (corresponding author: <icazcarr@unizar.es>)
 
 ## Description
 
-**HISTORECO** is a comprehensive database that includes 40 geographic,
+**HISTORECO** is a comprehensive database that includes around 50 geographic,
 climatic, hydrological, demographic, and economic variables spanning the
 20th and 21st centuries, covering **all 8,122 municipalities in Spain**
 each of which has one value per decade. It is a unique dataset that
