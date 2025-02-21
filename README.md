@@ -15,15 +15,15 @@ Ignacio Cazcarro (corresponding author: <icazcarr@unizar.es>)
 
 ## Description
 
-**HISTORECO** is a comprehensive database that includes around 50 geographic,
-climatic, hydrological, demographic, and economic variables spanning the
+**HISTORECO** is a comprehensive database that includes 44 geographic,
+climatic, hydrological, demographic, and economic variables (64 independent columns) spanning the
 20th and 21st centuries, covering **all 8,122 municipalities in Spain**
 each of which has one value per decade. It is a unique dataset that
 integrates data from various sources, facilitating the analysis of
 long-term temporal and spatial trends across multiple disciplines such
 as climate, geography, and socio-economic development.
 
-The dataset combines information from more than a dozen sources,
+The dataset combines information from close to 20 sources,
 harmonizing and downscaling them to the municipal level using GIS and
 programming tools (mainly QGIS, R, and Python). This is the most
 extensive dataset of its kind in terms of temporal depth and spatial
@@ -61,11 +61,14 @@ The database is provided in two main formats:
     shapefile comes from the National Geographic Institute (IGN,
     <https://centrodedescargas.cnig.es/CentroDescargas/catalogo.do>).
 
+5.  **Yearly Panel Data (CSV)** "Historeco_Year.csv": A more exploratory (in progress) database
+    where yearly data is provided since 1950 for several climatic, land use, hydrological and geographic variables.
+
 ------------------------------------------------------------------------
 
 ## Variables
 
-The database contains **46 variables** divided into five thematic
+The database contains **44 variables** divided into five thematic
 groups:
 
 1.  **Climatic Variables** (e.g., total precipitation, mean temperature,
@@ -115,7 +118,7 @@ paper:
 
 Rodríguez-López, G., Serrano, A., Martín-Retortillo, M., & Cazcarro, I.
 HISTORECO: Historical Spanish Transition Database on Climate, Geography,
-and Economics of the 20th-21st Century. (2024).
+and Economics of the 20th-21st Century. (2025). Under Review in Scientific Data.
 
 ------------------------------------------------------------------------
 
