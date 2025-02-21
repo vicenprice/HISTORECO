@@ -49,6 +49,7 @@ The database is provided in two main formats:
     -   A spatial representation of the municipalities with an
         associated attribute table containing one column per variable
         and decade.
+        The shapefile comprises 8,205 objects/polygons given that it also includes 87 objects of communal forests (mainly in Navarre, with the “facerías” regime, Basque Country, Castile and Leon, Cantabria and one case in Castile-La Mancha and another in Asturias).
 
 3.  **Atribute table format**: An archive with the same structure as the
     attribute table, one row per municipality and one column per
