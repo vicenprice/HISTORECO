@@ -117,9 +117,9 @@ thematic group are available in the methods folder.
 If you use this database in your research, please cite the following
 paper:
 
-Rodríguez-López, G., Serrano, A., Martín-Retortillo, M., & Cazcarro, I.
+Rodríguez-López, G., Serrano, A., Martín-Retortillo, M., & Cazcarro, I.(2025).
 HISTORECO: Historical Spanish Transition Database on Climate, Geography,
-and Economics of the 20th-21st Century. (2025). Under Review in Scientific Data.
+and Economics of the 20th-21st Century. Under Review in Scientific Data.
 
 ------------------------------------------------------------------------
 
