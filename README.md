@@ -4,7 +4,7 @@ Guillermo Rodríguez-López, Ignacio Cazcarro, Ana Serrano, Miguel
 Martín-Retortillo
 2024-10-10
 
-# HISTORECO: Historical Spanish Transition Database on Climate, Geography, and Economics of the 20th-21st Century
+# HISTORECO: Historical Spanish transition database on climate, geography, and economics of the 20th-21st Century
 
 ### Authors:
 
@@ -15,15 +15,15 @@ Ignacio Cazcarro (corresponding author: <icazcarr@unizar.es>)
 
 ## Description
 
-**HISTORECO** is a comprehensive database that includes 44 geographic,
-climatic, hydrological, demographic, and economic variables (64 independent columns) spanning the
-20th and 21st centuries, covering **all 8,122 municipalities in Spain**
+**HISTORECO** is a comprehensive database that includes 45 geographic,
+climatic, hydrological, demographic, and economic variables (64 independent columns apart from the 7 first of identification of the municipality in "Historeco.csv") spanning the
+20th and 21st centuries, covering **8,122 homogeneous municipalities in Spain**
 each of which has one value per decade. It is a unique dataset that
 integrates data from various sources, facilitating the analysis of
 long-term temporal and spatial trends across multiple disciplines such
 as climate, geography, and socio-economic development.
 
-The dataset combines information from close to 20 sources,
+The dataset combines information from twenty sources,
 harmonizing and downscaling them to the municipal level using GIS and
 programming tools (mainly QGIS, R, and Python). This is the most
 extensive dataset of its kind in terms of temporal depth and spatial
@@ -69,7 +69,7 @@ The database is provided in two main formats:
 
 ## Variables
 
-The database contains **44 variables** divided into five thematic
+The database contains **45 variables** divided into five thematic
 groups:
 
 1.  **Climatic Variables** (e.g., total precipitation, mean temperature,
@@ -117,7 +117,7 @@ thematic group are available in the methods folder.
 If you use this database in your research, please cite the following
 paper:
 
-Rodríguez-López, G., Serrano, A., Martín-Retortillo, M., & Cazcarro, I.(2025).
+Rodríguez-López, G., Serrano, A., Martín-Retortillo, M. & Cazcarro, I.(2025).
 HISTORECO: Historical Spanish Transition Database on Climate, Geography,
 and Economics of the 20th-21st Century. Under Review in Scientific Data.
 
