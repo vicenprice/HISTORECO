@@ -2,7 +2,7 @@ README
 ================
 Guillermo Rodríguez-López, Ignacio Cazcarro, Ana Serrano, Miguel
 Martín-Retortillo
-2024-10-10
+2025-03-07
 
 # HISTORECO: Historical Spanish transition database on climate, geography, and economics of the 20th-21st Century
 
