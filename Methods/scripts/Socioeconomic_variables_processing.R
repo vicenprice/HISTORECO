@@ -57,8 +57,8 @@ simpson_area_data <- read.csv("path_to_simpson_area_data.csv")
 # Merge population data with Simpson area data
 merged_data <- population_data %>%
   left_join(simpson_area_data, by = "codigo_provincia") %>%
-  mutate(Simpson_Areas_4 = ifelse(region == "4", area_name, NA),
-         Simpson_Areas_10 = ifelse(region == "10", area_name, NA))
+  mutate(Simpson_Areas_5 = ifelse(region == "5", area_name, NA),
+         Simpson_Areas_11 = ifelse(region == "11", area_name, NA))
 
 # Final dataset with all calculated variables
 final_data <- merged_data %>%
