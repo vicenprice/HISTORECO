@@ -119,7 +119,7 @@ paper:
 
 Rodríguez-López, G., Serrano, A., Martín-Retortillo, M. & Cazcarro, I.(2025).
 HISTORECO: Historical Spanish Transition Database on Climate, Geography,
-and Economics of the 20th-21st Century. Under Review in Scientific Data.
+and Economics of the 20th-21st Century. Accepted in Scientific Data.
 
 ------------------------------------------------------------------------
 
