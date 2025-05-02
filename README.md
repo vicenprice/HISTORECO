@@ -27,7 +27,7 @@ The dataset combines information from twenty sources,
 harmonizing and downscaling them to the municipal level using GIS and
 programming tools (mainly QGIS, R, and Python). This is the most
 extensive dataset of its kind in terms of temporal depth and spatial
-granularity available for Spain.
+granularity available for Spain. Further visualization and download options exist at https://historeco.unizar.es/.
 
 This project has been developed thanks to funding from the Ramón Areces
 Foundation, without which it would not have been possible.
